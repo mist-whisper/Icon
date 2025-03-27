@@ -1,0 +1,78 @@
+{
+	"name": "祝愿图标",
+	"description": "祝愿图标订阅",
+	"icons": [
+		{
+			"name": "AdGuard",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/AdGuard.png"
+		},
+		{
+			"name": "BiliBiliWhite",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/BiliBiliWhite.png"
+		},
+		{
+			"name": "Blockads",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Blockads.png"
+		},
+		{
+			"name": "FIMO",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/FIMO.png"
+		},
+		{
+			"name": "FunforCam",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/FunforCam.png"
+		},
+		{
+			"name": "Google",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Google.png"
+		},
+		{
+			"name": "Javdb",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Javdb.png"
+		},
+		{
+			"name": "QuantumultX",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/QuantumultX.png"
+		},
+		{
+			"name": "SpotifyLyrics",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/SpotifyLyrics.png"
+		},
+		{
+			"name": "StreamMusic",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/StreamMusic.png"
+		},
+		{
+			"name": "Subtrack",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Subtrack.png"
+		},
+		{
+			"name": "TencentSport",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/TencentSport.png"
+		},
+		{
+			"name": "TgRedirect",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/TgRedirect.png"
+		},
+		{
+			"name": "Vidhub",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Vidhub.png"
+		},
+		{
+			"name": "Walablockads",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Walablockads.png"
+		},
+		{
+			"name": "Webpage",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Webpage.png"
+		},
+    {
+			"name": "Xptv",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Xptv.png"
+		},
+    {
+			"name": "Yiya",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icons/master/MyIcon/Yiya.png"
+				}
+	]
+}
