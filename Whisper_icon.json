@@ -66,17 +66,21 @@
 			"name": "Webpage",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Webpage.png"
 		},
-    {
+                {
 			"name": "Xptv",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Xptv.png"
 		},
-    {
+                {
 			"name": "Yiyan",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Yiyan.png"
 				},
 		{
 			"name": "Hneko",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Hneko.png"
-		}
+		},
+		{
+			"name": "WiFi.",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/WiFi.png"
+				}
 	]
 }
