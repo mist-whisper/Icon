@@ -73,7 +73,7 @@
                 {
 			"name": "Yiyan",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Yiyan.png"
-				},
+		},
 		{
 			"name": "Hneko",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Hneko.png"
@@ -81,6 +81,14 @@
 		{
 			"name": "WiFi.",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/WiFi.png"
-				}
+		},
+		{
+			"name": "Turrit",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Turrit.png"
+		},
+		{
+			"name": "Swiftgram",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Swiftgram.png"
+		}
 	]
 }
