@@ -93,6 +93,16 @@
 		{
 			"name": "WeRead",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/WeRead.png"
+		},
+		{
+			"name": "Bitwarden",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Bitwarden.png"
+		},{
+			"name": "HeiLiao",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/HeiLiao.png"
+		},{
+			"name": "Three",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Three.png"
 		}
 	]
 }
