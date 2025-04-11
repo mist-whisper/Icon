@@ -109,6 +109,18 @@
 		{
 			"name": "Notability",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Notability.png"
+		},
+		{
+			"name": "AppleTV+",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/AppleTV+.png"
+		},
+		{
+			"name": "AppleNews",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/AppleNews.png"
+		},
+		{
+			"name": "X",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/X.png"
 		}
 	]
 }
