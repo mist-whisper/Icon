@@ -121,6 +121,10 @@
 		{
 			"name": "X",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/X.png"
+		},
+		{
+			"name": "ManagerTools",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/ManagerTools.png"
 		}
 	]
 }
