@@ -2,6 +2,10 @@
 	"name": "祝愿图标",
 	"description": "祝愿图标订阅",
 	"icons": [
+		 {
+			"name": "Wish",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Wish.png"
+		},
 		{
 			"name": "AdGuard",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/AdGuard.png"
