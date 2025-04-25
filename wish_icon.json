@@ -129,6 +129,10 @@
 		{
 			"name": "ManagerTools",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/ManagerTools.png"
+		},
+		{
+			"name": "DailyBonus",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/DailyBonus.png"
 		}
 	]
 }
