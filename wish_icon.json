@@ -137,6 +137,10 @@
 		{
 			"name": "DeepSeek",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/DeepSeek.png"
+		},
+		{
+			"name": "InitiumMedia",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/InitiumMedia.png"
 		}
 	]
 }
