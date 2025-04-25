@@ -133,6 +133,10 @@
 		{
 			"name": "DailyBonus",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/DailyBonus.png"
+		},
+		{
+			"name": "DeepSeek",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/DeepSeek.png"
 		}
 	]
 }
