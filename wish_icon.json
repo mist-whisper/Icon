@@ -141,6 +141,10 @@
 		{
 			"name": "InitiumMedia",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/InitiumMedia.png"
+		},
+		{
+			"name": "Intent",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Intent.png"
 		}
 	]
 }
