@@ -145,6 +145,10 @@
 		{
 			"name": "Intent",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Intent.png"
+		},
+		{
+			"name": "MXBC",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/MXBC.png"
 		}
 	]
 }
