@@ -153,6 +153,10 @@
 		{
 			"name": "SMZDM",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/SMZDM.png"
+		},
+		{
+			"name": "Pillow",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Pillow.png"
 		}
 	]
 }
