@@ -157,6 +157,10 @@
 		{
 			"name": "Pillow",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Pillow.png"
+		},
+		{
+			"name": "Dingdong",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Dingdong.png"
 		}
 	]
 }
