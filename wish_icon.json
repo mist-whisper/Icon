@@ -181,6 +181,10 @@
 		{
 			"name": "Keep",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Keep.png"
+		},
+		{
+			"name": "Blankbook",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Blankbook.png"
 		}
 	]
 }
