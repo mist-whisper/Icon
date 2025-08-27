@@ -1,5 +1,5 @@
 {
-	"name": "祝愿图标",
+	"name": "wish的图标库",
 	"description": "个人自用图标",
 	"icons": [
 		 {
@@ -189,6 +189,10 @@
 		{
 			"name": "SeasunJX3",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/SeasunJX3.png"
+		},
+		{
+			"name": "BodianMusic",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/BodianMusic.png"
 		}
 	]
 }
