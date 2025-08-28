@@ -193,6 +193,22 @@
 		{
 			"name": "BodianMusic",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/BodianMusic.png"
+		},
+		{
+			"name": "Weather",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Weather.png"
+		},
+		{
+			"name": "Map",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Map.png"
+		},
+		{
+			"name": "Location",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Location.png"
+		},
+		{
+			"name": "AppleIntelligence",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/AppleIntelligence.png"
 		}
 	]
 }
