@@ -214,5 +214,17 @@
 			"name": "SportsiQIYI",
 			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/SportsiQIYI.png"
 		},
+		{
+			"name": "Mobile",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Mobile.png"
+		},
+		{
+			"name": "Telecom",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Telecom.png"
+		},
+		{
+			"name": "Unicom",
+			"url": "https://raw.githubusercontent.com/mist-whisper/Icon/master/MyIcon/Unicom.png"
+		}
 	]
 }
