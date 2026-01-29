@@ -1,0 +1,10 @@
+{
+	"name": "自用Emby图标库",
+	"description": "个人自用Emby图标",
+	"icons": [
+		{
+			"name": "EMOS",
+			"url": "https://resource.wuyra.com/Icon/Emby_icon/120px/EMOS.png"
+		}
+	]
+}
